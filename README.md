@@ -2,11 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Giovanni Miranda, tenho 29 anos e sou de Porto Velho, Rondônia. Estou cursando o 5º período de Ciências da Computação e trabalho há 2 anos na área de suporte técnico, com sólida experiência em Help Desk.
-
-Sou entusiasta de tecnologia e estou constantemente buscando aprimorar minhas habilidades em desenvolvimento de software. Atualmente, estou focado em me tornar um desenvolvedor full stack, com projetos que demonstram meu progresso e dedicação ao aprendizado.
-
-Neste GitHub, compartilho exemplos do meu trabalho e das soluções que venho desenvolvendo ao longo da minha jornada. Fique à vontade para explorar, conectar-se comigo e compartilhar seu feedback.
+Meu nome é Giovanni Miranda, tenho 29 anos e sou de Porto Velho, Rondônia. Estou cursando o 5º período de Ciências da Computação e trabalho há 2 anos na área de suporte técnico, com sólida experiência em Help Desk. Sou entusiasta de tecnologia e estou constantemente buscando aprimorar minhas habilidades em desenvolvimento de software. Atualmente, estou focado em me tornar um desenvolvedor full stack, com projetos que demonstram meu progresso e dedicação ao aprendizado. Neste GitHub, compartilho exemplos do meu trabalho e das soluções que venho desenvolvendo ao longo da minha jornada. Fique à vontade para explorar, conectar-se comigo e compartilhar seu feedback.
 
 <p align="left"> 
     <a href="https://github.com/G10vanniMiranda?tab=repositories&sort=stargazers">
