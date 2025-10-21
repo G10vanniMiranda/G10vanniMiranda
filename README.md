@@ -146,3 +146,5 @@ Meu nome é Giovanni Miranda, tenho 28 anos e sou de Porto Velho, RO. Estou curs
   />
 
 </p>
+
+<p align="center"> <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=G10vanniMiranda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/> <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G10vanniMiranda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"/> </p> <p align="center"> <img alt="GitHub Streak" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=G10vanniMiranda&theme=tokyonight&locale=pt-br"/> </p>
